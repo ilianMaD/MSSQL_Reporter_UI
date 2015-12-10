@@ -1,0 +1,25 @@
+{
+  "name": "MSSQL_Reports_UI",
+  "version": "1.0.0",
+  "description": "Creating custom reports with graphics from MSSQL Server data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilianMaD/MSSQL_Reports_UI.git"
+  },
+  "keywords": [
+    "MSSQL",
+    "Server",
+    "Reports",
+    "UI"
+  ],
+  "author": "ilianMaD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilianMaD/MSSQL_Reports_UI/issues"
+  },
+  "homepage": "https://github.com/ilianMaD/MSSQL_Reports_UI"
+}
